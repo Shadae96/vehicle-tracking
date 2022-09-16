@@ -4,6 +4,6 @@ x=["2022-09-16T02:58:26Z","2022-09-16T03:58:26Z","2022-09-16T4:58:26Z","2022-09-
 y=[28,28,28,29,31]
 plt.plot(x,y)
 plt.xlabel('Time')
-plt.ylabel('Door Status')
-plt.title("Percentage of Time Door is Open")
+plt.ylabel('Humidity')
+plt.title("Humidity Level Over Time")
 plt.show()
