@@ -1,0 +1,149 @@
+{
+    "humidity": [
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 28,
+                    "humidityTime": "2022-09-16T02:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 29,
+                    "humidityTime": "2022-09-16T03:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 29,
+                    "humidityTime": "2022-09-16T02:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 29,
+                    "humidityTime": "2022-09-16T04:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 28,
+                    "humidityTime": "2022-09-16T05:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 27,
+                    "humidityTime": "2022-09-16T06:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 29,
+                    "humidityTime": "2022-09-16T07:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 28,
+                    "humidityTime": "2022-09-16T02:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 26,
+                    "humidityTime": "2022-09-16T02:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 25,
+                    "humidityTime": "2022-09-16T02:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        null,
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 28,
+                    "humidityTime": "2022-09-16T02:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "humidity": 28,
+                    "humidityTime": "2022-09-16T02:58:26Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        }
+    ]
+}

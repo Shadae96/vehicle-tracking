@@ -1,0 +1,101 @@
+{
+    "doorstatus": [
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018083082629,
+                    "name": "WDED-NC2-FZA",
+                    "doorClosed": true,
+                    "doorStatusTime": "2022-09-16T01:25:15Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018083082629,
+                    "name": "WDED-NC2-FZA",
+                    "doorClosed": "True",
+                    "doorStatusTime": "2022-09-16T01:25:15Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018083082629,
+                    "name": "WDED-NC2-FZA",
+                    "doorClosed": "True",
+                    "doorStatusTime": "2022-09-16T01:25:15Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018083082629,
+                    "name": "WDED-NC2-FZA",
+                    "doorClosed": "True",
+                    "doorStatusTime": "2022-09-16T01:25:15Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018083082629,
+                    "name": "WDED-NC2-FZA",
+                    "doorClosed": "True",
+                    "doorStatusTime": "2022-09-16T01:25:15Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 13456,
+            "sensors": [
+                {
+                    "id": 278018083082629,
+                    "name": "WDED-NC2-FZA",
+                    "doorClosed": "True",
+                    "doorStatusTime": "2022-09-16T01:25:15Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 13456,
+            "sensors": [
+                {
+                    "id": 278018083082629,
+                    "name": "WDED-NC2-FZA",
+                    "doorClosed": "True",
+                    "doorStatusTime": "2022-09-16T01:25:15Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+    
+        {
+            "groupId": 13456,
+            "sensors": [
+                {
+                    "id": 278018083082629,
+                    "name": "WDED-NC2-FZA",
+                    "doorClosed": "True",
+                    "doorStatusTime": "2022-09-16T01:25:15Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        }
+    ]
+}
