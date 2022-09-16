@@ -143,6 +143,66 @@
                     "vehicleId": 281474982422735
                 }
             ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "ambientTemperature": 27666,
+                    "ambientTemperatureTime": "2022-09-16T03:26:06Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "ambientTemperature": 27666,
+                    "ambientTemperatureTime": "2022-09-16T03:26:06Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "ambientTemperature": 27666,
+                    "ambientTemperatureTime": "2022-09-16T03:26:06Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "ambientTemperature": 27666,
+                    "ambientTemperatureTime": "2022-09-16T03:26:06Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
+        },
+        {
+            "groupId": 108155,
+            "sensors": [
+                {
+                    "id": 278018084737978,
+                    "name": "W32X-WMB-S5S",
+                    "ambientTemperature": 27666,
+                    "ambientTemperatureTime": "2022-09-16T03:26:06Z",
+                    "vehicleId": 281474982422735
+                }
+            ]
         }
     ]
 }

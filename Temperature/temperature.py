@@ -1,5 +1,6 @@
 import requests
 import json
+import matplotlib.pyplot as plt
 
 
 url = "https://api.samsara.com//v1/sensors/temperature?sensors=278018084737978"
@@ -55,21 +56,22 @@ write_json(y)
 
 
 
+# Creating graph for Temperature
+
+x = [1,3,5,7]
+y = [2,4,6,1]
+
+x.append(8)
+y.append(11)
+
+
+plt.plot(x,y)
+plt.xlabel('Time')
+plt.ylabel('Temperature')
+plt.title("Vehicle Temperature Over Time")
+plt.show()
 
 
 
 
 
-
-
-
-
-
-
-# x=[1,3,5,7]
-# y=[2,4,6,1]
-# plt.plot(x,y)
-# plt.xlabel('X-axis')
-# plt.ylabel('Y-axis')
-# plt.title("A simple line graph")
-# plt.show()
